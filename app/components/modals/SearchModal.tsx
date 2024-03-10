@@ -1,6 +1,6 @@
 "use client";
 
-import useSearchModal from "@/app/hooks/UseSearchModal";
+import useSearchModal from "@/app/hooks/useSearchModal";
 import React, { useCallback, useMemo, useState } from "react";
 import Modal from "./Modal";
 import { useRouter } from "next/navigation";
